@@ -1,0 +1,46 @@
+2	// Set Reg
+7b05	// Reg = -1069
+2d74	// Reg = Reg - 702
+9de5	// Reg = Reg - 719
+1b93	// Reg = Reg - 29
+aede	// Set K_e = 41
+c350	// Reg = Reg - 81
+4c27	// Reg = Reg - 269
+c2ac	// Encrypt and output
+45b1	// Reset Reg
+2b4f	// Reg = Reg + 343
+5381	// Reg = Reg - 424
+cc74	// Reg = Reg + 699
+4463	// Reg = Reg - 601
+4c39	// Reg = Reg + 158
+5e7	// Reg = Reg + 513
+8322	// Set K_e = 157
+c2ac	// Encrypt and output
+45b1	// Reset Reg
+a8a	// Reg = Reg + 932
+a441	// Reg = Reg - 870
+876	// Reg = Reg + 278
+c00e	// Reg = Reg - 999
+b338	// Reg = Reg - 15
+a441	// Reg = Reg - 870
+9887	// Set K_e = 227
+c2ac	// Encrypt and output
+2	// Set Reg
+bf2b	// Reg = 1356
+5610	// Reg = Reg - 77
+1db4	// Reg = Reg - 772
+722	// Reg = Reg - 358
+16f5	// Set K_e = 253
+93ce	// Reg = Reg - 852
+3211	// Reg = Reg + 473
+5cbd	// Reg = Reg + 853
+35bf	// Reg = Reg - 506
+c2ac	// Encrypt and output
+45b1	// Reset Reg
+a9a9	// Reg = Reg + 297
+7836	// Reg = Reg - 620
+43c2	// Set K_e = 121
+85c7	// Reg = Reg + 478
+bd54	// Reg = Reg + 420
+4c8f	// Reg = Reg + 537
+c2ac	// Encrypt and output

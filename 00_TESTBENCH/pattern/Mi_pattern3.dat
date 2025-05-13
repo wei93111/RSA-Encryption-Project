@@ -1,0 +1,37 @@
+45b1	// Reset Reg
+c13c	// Reg = Reg + 788
+33f4	// Set K_e = 241
+9300	// Reg = Reg + 738
+ce04	// Reg = Reg - 187
+65c4	// Reg = Reg - 723
+c2ac	// Encrypt and output
+2	// Set Reg
+b512	// Reg = 668
+abc6	// Reg = Reg + 470
+a2ed	// Set K_e = 103
+125e	// Reg = Reg - 237
+681b	// Reg = Reg - 602
+c2ac	// Encrypt and output
+2	// Set Reg
+3fe3	// Reg = 1804
+88d8	// Set K_e = 143
+55c9	// Reg = Reg + 618
+6204	// Reg = Reg - 598
+c2ac	// Encrypt and output
+45b1	// Reset Reg
+28d3	// Reg = Reg + 71
+6b0c	// Set K_e = 191
+9117	// Reg = Reg + 80
+4f64	// Reg = Reg - 395
+5c7d	// Reg = Reg - 917
+c04b	// Reg = Reg + 611
+cb63	// Reg = Reg - 80
+9eef	// Reg = Reg - 340
+c2ac	// Encrypt and output
+45b1	// Reset Reg
+8c16	// Reg = Reg + 233
+63ce	// Reg = Reg + 50
+c622	// Reg = Reg - 362
+9c5b	// Set K_e = 197
+33bf	// Reg = Reg - 830
+c2ac	// Encrypt and output
